@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank(US) cards related QA APIs "
+  message: "Welcome to EazyBank(UK) cards related QA APIs "
   contactDetails:
     name: "Cherryl Pankaj - QA Lead,and akashayyan"
     email: "cherryl@eazybank.com"
